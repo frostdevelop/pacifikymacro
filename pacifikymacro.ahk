@@ -36,7 +36,7 @@ SetTimer () => ToolTip(), -500
 }
 
 TrayTip("PacifikyMacro Init")
-MsgBox "Welcome to PacifikyMacro!`nAn Open-Source Bee Swarm Simulator macro!`nTo start macro: ctrl+shift+b`nTo change mode: alt+b"
+MsgBox "Welcome to PacifikyMacro!`nAn Open-Source Bee Swarm Simulator macro!`nTo start macro: ctrl+shift+b`nTo change mode: alt+b`nV1.0"
 
 while(true){
 	if(!Toggle)
